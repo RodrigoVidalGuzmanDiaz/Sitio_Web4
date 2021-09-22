@@ -1,3 +1,39 @@
+.general-background{
+    height: 100vh;
+}
+.login2-background {
+    
+    width: 75.5rem;
+
+    margin: auto;
+    background: transparent;
+    position: relative;
+}
+.login2-banner{
+    width: 37.5rem;
+    margin-left: -16rem;
+}
 .login2-lista_funciones {
     border-radius: 4rem 4rem 3rem 3rem;
+    
+    margin: -20rem -15rem 0rem 10rem;
+}
+.login2-lista_funciones .div1 {
+   margin-top: 13rem;
+}
+.login2-lista_funciones .div2 {
+    margin-top: 13rem;
+    width: 15rem;
+    height: 9.5rem;
+}
+.login2-background .div3 {
+    top: 7rem;
+    right: -11.2rem;
+}
+.login2-background .div4 {
+    top: 7rem;
+    left: 23.8rem;
+}
+.alineacion{
+    margin-left: 10rem;
 }
